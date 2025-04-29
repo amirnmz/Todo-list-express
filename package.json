@@ -1,0 +1,20 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "bootstrap-v4-rtl": "^4.6.2-1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "font-awesome": "^4.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
